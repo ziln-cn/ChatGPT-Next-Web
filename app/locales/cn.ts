@@ -302,7 +302,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "你好。我是人工智障，有什么可以帮不到你的？我什么都不能回答，哦，对了，你还需要多多赞助一下我这个人工智障，我的主人才能升级成为高版本的人工智障",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
